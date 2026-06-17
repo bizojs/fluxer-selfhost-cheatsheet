@@ -4,7 +4,7 @@
 <details>
   <summary>My custom assets aren't working</summary>
 
-  Add the file extension (.png) onto the end of the file url.
+  #### Add the file extension (.png) onto the end of the file url.
 </details>
 <details>
   <summary>I just finished the setup wizard, but I cant connect to any voice channels!</summary>
