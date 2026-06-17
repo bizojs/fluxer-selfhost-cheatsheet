@@ -4,6 +4,13 @@ A helpful guide for common self hosting issues.
 
 ---
 
+Table of Contents
+- [The Fluxer Self Hosting Cheat Sheet](#the-fluxer-self-hosting-cheat-sheet)
+    - [My custom assets aren't working!](#my-custom-assets-arent-working)
+    - [I just finished the setup wizard, but I cant connect to any voice channels!](#i-just-finished-the-setup-wizard-but-i-cant-connect-to-any-voice-channels)
+
+---
+
 ### My custom assets aren't working!
 Add the file extension (.png) onto the end of the file url.
 
